@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Internet de las cosas (IoT)"
+subtitle: El futuro es hoy
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
